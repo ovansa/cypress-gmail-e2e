@@ -1,0 +1,4 @@
+{
+  "chromeWebSecurity": false,
+  "baseUrl": "https://mail.google.com/mail/"
+}

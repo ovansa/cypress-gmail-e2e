@@ -1,0 +1,16 @@
+{
+  "name": "cypress_gmail_e2e",
+  "version": "1.0.0",
+  "description": "Cypress e2e tests for Gmail functionality",
+  "main": "index.js",
+  "scripts": {
+    "cypress:test": "cypress run --headless --browser chrome"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.2",
+    "cypress": "^9.5.4",
+    "typescript": "^4.6.3"
+  }
+}

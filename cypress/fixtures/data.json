@@ -1,0 +1,12 @@
+{
+  "firstName": "SimpleFirst",
+  "lastName": "SimpleLast",
+  "usernameNotExist": "ovansa90mi",
+  "usernameExist": "validGmailUsername",
+  "password": "validGmailPassword",
+  "countryWithCode": "Nigeria (+234)",
+  "invalidPhone": "08156098",
+  "testPassword": "asamplepassword",
+  "mismatchPassword": "mismatchedpassword",
+  "lessThanMinimumPassword": "mismatc"
+}
